@@ -1,2 +1,2 @@
-# The_Little_Tycoon
+# The Little Tycoon
 The Little Tycoon
